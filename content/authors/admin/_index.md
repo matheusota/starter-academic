@@ -1,11 +1,12 @@
 ---
 role: PhD in Combinatorics and Optimization
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+avatar_filename: matheus.jpg
+bio: ""
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Combinatorial Optimization
+  - Operations Research
+  - Integer Programming
+  - Approximation Algorithms
 social:
   - icon: envelope
     icon_pack: fas
@@ -41,9 +42,6 @@ highlight_name: false
 title: Matheus Jun Ota
 email: ""
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My research is mainly about combinatorial optimization. I enjoy both investigating the theoretical and structural properties, as to implementing efficient and practical algorithms. A great part of my work concerns Integer Programming techniques for discrete problems.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
