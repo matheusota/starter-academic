@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Flávio K. Miyazawa | Academic</title>
+    <link>/authors/flavio-k.-miyazawa.html</link>
+      <atom:link href="/authors/flavio-k.-miyazawa/index.xml" rel="self" type="application/rss+xml" />
+    <description>Flávio K. Miyazawa</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Flávio K. Miyazawa</title>
+      <link>/authors/flavio-k.-miyazawa.html</link>
+    </image>
+    
+    <item>
+      <title>Partitioning a graph into balanced connected classes: Formulations, separation and experiments</title>
+      <link>/publication/miyazawa-2021.html</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/miyazawa-2021.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cut and Flow Formulations for the Balanced Connected k-Partition Problem</title>
+      <link>/publication/miyazawa-mow-20.html</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/miyazawa-mow-20.html</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

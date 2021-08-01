@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Academic</title>
+    <link>/publication.html</link>
+      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>/publication.html</link>
+    </image>
+    
+    <item>
+      <title>Partitioning a graph into balanced connected classes: Formulations, separation and experiments</title>
+      <link>/publication/miyazawa-2021.html</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/miyazawa-2021.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Balanced Connected k-Partition Problem: Polyhedra and Algorithms</title>
+      <link>/publication/ctd.html</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/ctd.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tighter Dual Bounds on the Least Cost Influence Problem</title>
+      <link>/publication/detighter.html</link>
+      <pubDate>Tue, 03 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/detighter.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cut and Flow Formulations for the Balanced Connected k-Partition Problem</title>
+      <link>/publication/miyazawa-mow-20.html</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/miyazawa-mow-20.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exhaustive and Semi-Exhaustive Procedural Content Generation</title>
+      <link>/publication/sturtevant-ota-2018.html</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/sturtevant-ota-2018.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Algoritmo  de  Branch-Cut-and-Price  para o Problema do Roteamento de Veículos Capacitados</title>
+      <link>/publication/tr-ic-pfg-18-17.html</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/tr-ic-pfg-18-17.html</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
