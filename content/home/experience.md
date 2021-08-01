@@ -22,28 +22,37 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
+  - title: PhD in Combinatorics and Optimization
+    company: University of Waterloo
+    company_url: 'https://uwaterloo.ca/combinatorics-and-optimization/'
+    location: Waterloo-CA
     date_start: '2021-01-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
+    description: I work with professor Ricardo Fukasawa on Integer Programming techniques.
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Software Engineering Intern
+    company: Facebook
+    company_url: 'https://www.facebook.com/careers/'
+    location: London-UK
+    date_start: '2020-01-01'
+    date_end: '2020-04-01'
+    description: Worked at Facebook AR/VR division using C++ and OpenGL.
+    
+  - title: Software Developer
+    company: Daitan
+    company_url: 'https://www.daitan.com/'
+    location: Campinas-BR
+    date_start: '2017-08-01'
+    date_end: '2018-10-01'
+    description: Back-End Developer. Working with Java and using technologies like Apache Camel, Active MQ, MariaDB, Spring Boot, Docker and Git/SVN.
+    
+  - title: Undergraduate Student Researcher
+    company: University of Denver
+    company_url: 'https://www.du.edu/'
+    location: Denver-US
+    date_start: '2016-05-01'
+    date_end: '2016-06-01'
+    description: Together with professor Nathan Sturtevant, developed a Puzzle Generator for the game “The Witness”. The generator was made using techniques based on Procedural Content Generation. The work was published in AIIDE'18. 
 
 design:
   columns: '2'
